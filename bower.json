@@ -1,0 +1,22 @@
+{
+  "name": "uncomment-normalize.css",
+  "version": "3.0.3",
+  "homepage": "https://github.com/shgtkshruch/uncomment-normalize.css",
+  "authors": [
+    "shgtkshruch <shgtk.shruch@gmail.com>"
+  ],
+  "description": "uncomment normalize.css",
+  "main": "uncomment-normalize.css",
+  "moduleType": [],
+  "keywords": [
+    "normalize"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
